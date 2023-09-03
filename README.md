@@ -18,10 +18,12 @@
 
 [![Linux](https://img.shields.io/badge/Linux-0077B5?style=flat-square&logo=linux&logoColor=white)]()
 [![Android](https://img.shields.io/badge/Android-4EA94B?style=flat-square&logo=android&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=c%2B%2B&&logoColor=white)]()
 [![Html](https://img.shields.io/badge/Html%205-F05032?style=flat-square&logo=html5&logoColor=white)]()
 [![Css](https://img.shields.io/badge/Css%203-007ACC?style=flat-square&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-CB3837?&style=flat-square&logo=openjdk&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-0077B5?style=flat-square&logo=dart&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)]()
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)]()
